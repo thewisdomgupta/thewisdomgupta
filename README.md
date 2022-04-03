@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://khabarflashback.blogspot.com/](https://khabarflashback.blogspot.com/)
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **Java, React JS, JavaScript**
 
 - 📫 How to reach me **vivekkumarguptafromktr@gmail.com**
 
