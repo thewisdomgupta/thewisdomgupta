@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **vivekkumarguptafromktr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yqCmGk9Ikpdow5GzN1KCCEr6DX6UUiey/view?usp=sharing](https://drive.google.com/file/d/1yqCmGk9Ikpdow5GzN1KCCEr6DX6UUiey/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/3u2ONnK](https://drive.google.com/file/d/1yqCmGk9Ikpdow5GzN1KCCEr6DX6UUiey/view?usp=sharing)
 
-- ⚡ Fun fact **I think I love Coding**
+- ⚡ Fun fact **I think I am in love with Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
