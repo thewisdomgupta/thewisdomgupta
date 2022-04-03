@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Kumar Gupta</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vivek Kumar Gupta</h1>
 <h3 align="center">On a journey to make a better Digital Infrastructure for the Humanity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thewisdomgupta&label=Profile%20views&color=0e75b6&style=flat" alt="thewisdomgupta" /> </p>
@@ -9,6 +9,8 @@
 
 <br>
 <img align="center" alt="Coding" width="1400" src="https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/How%20to%20Find%20the%20Perfect%20GIF%2010%20Must-Try%20Websites-3.gif?width=936&height=480&name=How%20to%20Find%20the%20Perfect%20GIF%2010%20Must-Try%20Websites-3.gif">
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
 - 🌱 I’m currently learning **DSA**
