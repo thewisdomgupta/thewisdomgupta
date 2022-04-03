@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/thewisdomgupta" target="blank"><img src="https://img.shields.io/twitter/follow/thewisdomgupta?logo=twitter&style=for-the-badge" alt="thewisdomgupta" /></a> </p>
 
+<br>
+<img align="center" alt="Coding" width="1400" src="https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/How%20to%20Find%20the%20Perfect%20GIF%2010%20Must-Try%20Websites-3.gif?width=936&height=480&name=How%20to%20Find%20the%20Perfect%20GIF%2010%20Must-Try%20Websites-3.gif">
+
+
 - 🌱 I’m currently learning **DSA**
 
 - 📝 I regularly write articles on [https://khabarflashback.blogspot.com/](https://khabarflashback.blogspot.com/)
