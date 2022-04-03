@@ -45,6 +45,6 @@
   <img src="https://profile-counter.glitch.me/thewisdomgupta/count.svg" />
 </p>
 
-<a href="https://www.adamalston.com/"><img height="130px" width="430px" src="https://github-readme-stats.vercel.app/api?username=thewisdomgupta&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="130px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisdomgupta&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.adamalston.com/"><img height="130px" width="435px" src="https://github-readme-stats.vercel.app/api?username=thewisdomgupta&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="130px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewisdomgupta&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thewisdomgupta&" alt="thewisdomgupta" /></p>
 
