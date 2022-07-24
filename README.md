@@ -11,8 +11,6 @@
 <img align="center" alt="Coding" width="1400" src="https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/How%20to%20Find%20the%20Perfect%20GIF%2010%20Must-Try%20Websites-3.gif?width=936&height=480&name=How%20to%20Find%20the%20Perfect%20GIF%2010%20Must-Try%20Websites-3.gif">
 <!-- https://drive.google.com/file/d/1zJfDMwJqCcnaaBACQScAJKdAiwBVd9ef/view?usp=sharing -->
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-
 
 - 🌱 I’m currently learning **DSA**
 
